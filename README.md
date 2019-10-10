@@ -1,3 +1,5 @@
+[syonさんのリポジトリ](https://github.com/syon/awake/tree/heroku)を参考に授業用に内容を一部変更しています。
+
 AWAKE [![wercker status](https://app.wercker.com/status/219b82bc57e438e29fe947f92a275fcc/s/master "wercker status")](https://app.wercker.com/project/byKey/219b82bc57e438e29fe947f92a275fcc)
 =====
 
